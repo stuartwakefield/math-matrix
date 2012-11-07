@@ -20,10 +20,10 @@
   If this were to be represented in tabular form it would look like:
   
     +---+---+
-	| 1 | 2 |
-	+---+---+
-	| 3 | 4 |
-	+---+---+
+    | 1 | 2 |
+    +---+---+
+    | 3 | 4 |
+    +---+---+
   
   The following code has the same items but represents them in a 1 by 4 
   matrix.
@@ -33,16 +33,16 @@
   That would be represented as follows.
   
     +---+
-	| 1 |
-	+---+
-	| 2 |
-	+---+
-	| 3 |
-	+---+
-	| 4 |
-	+---+
+    | 1 |
+    +---+
+    | 2 |
+    +---+
+    | 3 |
+    +---+
+    | 4 |
+    +---+
 
-  To retrieve cell values you can use the `getCell(x, y)` method. It's two
+  To retrieve cell values you can use the `getCell(x, y)` method. Its two
   parameters `x` and `y` are the zero-indexed column and the row 
   respectively. In the first example, `getCell(1,0)` would return `2`, in the
   second an error would be thrown `col[1] does not exist!`.
