@@ -1,5 +1,3 @@
---------------------------------------------------------------------------------
-
 # Matrix
 
   This project contains useful mathematics and algorithms for matrix maths.
@@ -9,7 +7,7 @@
     var matrix = new Matrix([1,2,3,4],2);
 	
   The above code creates a 2 x 2 matrix which represented in tabular form 
-  would looks like:
+  would look like:
   
     +---+---+
 	| 1 | 2 |
