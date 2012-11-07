@@ -41,6 +41,3 @@
 	| 1 | 2 | 3 | 4 |
 	+---+---+---+---+
   
-  matx4.js contains the functions required to perform perspective projection 
-  using homogenous coordinates.
-  
